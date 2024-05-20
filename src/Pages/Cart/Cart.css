@@ -14,6 +14,7 @@
 }
 .cart-items-item img{
     width: 50px;
+    border-radius: 50%;
 }
 .cart hr{
     height: 1px;
@@ -86,5 +87,8 @@
     }
     .promocode{
         justify-content: start;
+    }
+    .cart-items-title img{
+        width: 40px;
     }
 }
